@@ -1,0 +1,6 @@
+@SignalRProgressionBackendTest_HostAddress = http://localhost:5241
+
+GET {{SignalRProgressionBackendTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
